@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 06 11:30:07 CET 2020:
+ Derby The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446) változat betöltése: a816c00e-0175-9d1b-3677-0000071de260 példány
+a(z) E:\Gabor cucc\Java\NetBeansProjects\JDBCProjectSFJ\sampleDB adatbázis-könyvtáron: sun.misc.Launcher$AppClassLoader@610455d6 
+
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=E:\Gabor cucc\Java\NetBeansProjects\JDBCProjectSFJ
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Az adatbázis-osztálybetöltő elindult - derby.database.classpath=''
